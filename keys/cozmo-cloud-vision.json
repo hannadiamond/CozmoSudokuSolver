@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "striking-domain-163621",
+  "private_key_id": "92839397dc68e26933ec26676234ebb602738255",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEwAIBADANBgkqhkiG9w0BAQEFAASCBKowggSmAgEAAoIBAQDB1qWRMHIQa1vT\nWSKf+0Lh9joAbXuSF/iQf/rjKlQszKzoe5MB9tkfbU+mMoO111DylCVOQqJKzeh3\nBjDvR3C6R6gyWLWejy7jpEIqPh+wGUC1buBNVnLH522anXGgYkj+Wpb/pxSLH2YH\nBsUcgR8ZDnzYScyOIGBm4ODfcrIjVxwSNhClyIjCYWjuN5ITI9Z424vX/xvwPXGG\nvJB9PAp0uARS2xgftYSNloK/TY+Apmay7stnj12AFto8B5YuPiVL49QlzyP6xfW5\n1myJU+OvzWrp9Z7979TEM4mODaF7AqukO6ChPDVprpQNE/no1y25wAkjI4DrXJLu\n3iXNk6Z3AgMBAAECggEBAKcPOuT2LuiNzrdJdDkTkWI0F2s08LJJ7JWFZ5KPcbqm\nsEMx9dJUkG6whFwF31RCfWaEXd6kOUFlU3v5nwUqujIh/gleQTGlz9CsScYkgqUA\nLq/wHmspHYXCpMkD9uE2tBhbtRYjRuZcqk9V+14EvuuWe+zhNeYsa0lfeQ+7x2IC\nebDgALR3HSwV8SZYTDAgJ5TcwnzGyDe7pVcGPLJmdS5BjjqWmT4PN4kTVr6fw/IW\nwN+yy74gtg8kjBWdus0+NUSK1LOmkLsvLF3RQhCATNxmD7aIBxdAjbPb6MWV21du\nDgaeZzG9r369UB+y7+6D/Ob6Op7SHKdamSiWzJILTUECgYEA7p4o8gsaiQ6RfaHP\nquwftQzbFyVVrfokoYeWuamJhKRmjd7s9mnK1HK6le9kh1oKWAkhqp+eXZEBEBCw\nIaiev2+L7Y1yc8EcuhBmrqeZd7DjFApCVshhXoFgCv7hMfgF527wsN5wovCk1QVF\n9fEwrsC8sjIdvvL7OEYr0JxtbhcCgYEAz/VsdYvBaZhSstsgjEXI3M1eUaftk+mr\nfNa+cuGpKSo9sMGVYVZM7HJ3FyYc7v876I/6Ptb+6u6GXzgQknHPz1xuaWoTncZ1\nY8Jt87V5Co+Z/n2V4MMKH1jZvLDa5QeC2DFWrRlBLkLKmQgEekzU3CKS8IGDva0O\nZX2LX0EmJqECgYEAghd0V1G6a9Kne4kGgTcuqjSSFfJi3fEsm2wivqIxuUEwMFTD\neCyBSoYqN6hGdIygaxK/ahiP7I8rtyiB/jfCJLiZ3y9ooLc+BCsA8GOrhdfIVZqq\nREoG29FJHXWMLQP9pAmV67e6TPtJwmGXnNicJAosVjKAiSRL1ohbRuahuo0CgYEA\nk9MHh/8SO3eVwaHWXx/0ClDJ7Q2L6gq+Zf1YX91dG+/07kKNZyWrhKBRW1kyVAmG\nkmhWIHk/t8xaJDF8Rj001VgE/FX1H8BFDebVtdmX8xPlCWxIL/80oNfN3z1wPEG8\nluVrkZxUIwhDb8itNiqLXPgOr3vBJAFyLF6zxcBP2EECgYEAuNh6qudRhtGJHieT\nLsxZbYCUL3BPL45+4WeiV9cHSIcLYe2FwhUe4MMppdGuWVRYy6KQtP/9uulzi0LY\npMwkV1HMgac83WHFOCU+0cSTpr813RDWKYePyg1Zuc1pXVGtYK4JGe0hgfmeKaC4\ntw2FaZcgxkPGfcrhO7HgoAtusjk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "cozmo-147@striking-domain-163621.iam.gserviceaccount.com",
+  "client_id": "103320863016295101242",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cozmo-147%40striking-domain-163621.iam.gserviceaccount.com"
+}
